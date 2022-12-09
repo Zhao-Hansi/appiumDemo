@@ -45,3 +45,4 @@ for ele in eles:
 
 input('**** Press to quit..')
 driver.quit()
+driver.quit()
